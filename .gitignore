@@ -31,4 +31,4 @@ data_engineer_jobs_*.csv
 
 # Temporary files
 *.tmp
-*.temp
+*.temp.env
